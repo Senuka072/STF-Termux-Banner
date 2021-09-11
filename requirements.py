@@ -1,6 +1,4 @@
 import os
-import colorama
-from colorama import Fore
 
 
 os.system("pkg upgrade")
@@ -9,15 +7,11 @@ print("Done Upgrade")
 os.system("pkg update")
 print("Done update")
 
-
-os.system("pip install colorama")
-os.system("Done installing Colorama")
-
 os.system("pkg install python")
-print(Fore.MAGENTA + "Done installing Python")
+print("Done installing Python")
 
 os.system("pkg install ruby")
-print(Fore.MAGENTA + "Done installing Rubuy")
+print("Done installing Rubuy")
 
 os.system("pkg install figlet")
 os.system("figlet Done installing figlet")
