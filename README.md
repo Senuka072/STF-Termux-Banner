@@ -12,7 +12,7 @@ STF BANNER
 Steps :
 
         Then Run The req.py
-        [-]python req.py
+        [-]python requirements.py
         
         Then Run The Banner.py
         [-]python banner.py
