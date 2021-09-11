@@ -11,13 +11,18 @@ STF BANNER
 
 Steps :
 
-        [-] Then Run The req.py
-        python req.py
+        Then Run The req.py
+        [-]python req.py
         
-        [-] Then Run The Banner.py
-        python banner.py
-        [-] After Open A New Session In Termux   
+        Then Run The Banner.py
+        [-]python banner.py
         
-        [-] Your Banner Will Be Displayed
+        [#] After Open A New Session In Termux   
+        
+        [#] Your Banner Will Be Displayed
                                                                                 
 [~] Tested Only In Termux.
+
+Subscribe To My Channel : https://www.youtube.com/channel/UCUjXIDWzVqCqvw1LPQXBoYw
+Contact Me On Telegram  : https://t.me/SenukaThisath
+Contact Me On Whatsapp  : 
