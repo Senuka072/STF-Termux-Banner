@@ -1,1 +1,33 @@
-aW1wb3J0IG9zCmltcG9ydCBjb2xvcmFtYQpmcm9tIGNvbG9yYW1hIGltcG9ydCBGb3JlCgoKb3Muc3lzdGVtKCJwa2cgdXBncmFkZSIpCnByaW50KEZvcmUuTUFHRU5UQSArICJEb25lIFVwZ3JhZGUiKQoKb3Muc3lzdGVtKCJwa2cgdXBkYXRlIikKcHJpbnQoRm9yZS5NQUdFTlRBICsgIkRvbmUgdXBkYXRlIikKCm9zLnN5c3RlbSgicGtnIHB5dGhvbiIpCnByaW50KEZvcmUuTUFHRU5UQSArICJEb25lIGluc3RhbGxpbmcgUHl0aG9uIikKCm9zLnN5c3RlbSgicGtnIHJ1YnkiKQpwcmludChGb3JlLk1BR0VOVEEgKyAiRG9uZSBpbnN0YWxsaW5nIFJ1YnV5IikKCm9zLnN5c3RlbSgicGtnIGluc3RhbGwgZmlnbGV0IikKb3Muc3lzdGVtKCJmaWdsZXQgRG9uZSBpbnN0YWxsaW5nIGZpZ2xldCIpCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCm9zLnN5c3RlbSgiZ2VtIGluc3RhbGwgbG9sY2F0IikKb3Muc3lzdGVtKCJmaWdsZXQgRG9uZSBpbnN0YWxsaW5nIExvbGNhdCB8IGxvbGNhdCIpICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKb3Muc3lzdGVtKCJwa2cgaW5zdGFsbCBjb3dzYXkiKSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAKb3Muc3lzdGVtKCJjb3dzYXkgRG9uZSBpbnN0YWxsaW5nIENvd3NheSB8IGxvbGNhdCIpCgpvcy5zeXN0ZW0oInBpcCBpbnN0YWxsIGNvbG9yYW1hIikKb3Muc3lzdGVtKCJmaWdsZXQgRG9uZSBpbnN0YWxsaW5nIENvbG9yYW1hIHwgbG9sY2F0IikKCm9zLnN5c3RlbSgicGlwIGluc3RhbGwgbmVvZmV0Y2giKQpvcy5zeXN0ZW0oImZpZ2x0ZXIgRG9uZSBpbnN0YWxsaW5nIE5lb2ZldGNoIHwgbG9sY2F0IikKCm9zLnN5c3RlbSgiZmlnbGV0IERvbmUgaW5zdGFsbGluZyBBbGwgUGFja2FnZXMgfCBsb2xjYXQiKQ==
+import os
+import colorama
+from colorama import Fore
+
+
+os.system("pkg upgrade")
+print(Fore.MAGENTA + "Done Upgrade")
+
+os.system("pkg update")
+print(Fore.MAGENTA + "Done update")
+
+os.system("pkg python")
+print(Fore.MAGENTA + "Done installing Python")
+
+os.system("pkg ruby")
+print(Fore.MAGENTA + "Done installing Rubuy")
+
+os.system("pkg install figlet")
+os.system("figlet Done installing figlet")
+
+os.system("gem install lolcat")
+os.system("figlet Done installing Lolcat | lolcat")
+
+os.system("pkg install cowsay")
+os.system("cowsay Done installing Cowsay | lolcat")
+
+os.system("pip install colorama")
+os.system("figlet Done installing Colorama | lolcat")
+
+os.system("pip install neofetch")
+os.system("figlter Done installing Neofetch | lolcat")
+
+os.system("figlet Done installing All Packages | lolcat")
