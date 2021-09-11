@@ -13,10 +13,10 @@ print("Done update")
 os.system("pip install colorama")
 os.system("Done installing Colorama")
 
-os.system("pkg python")
+os.system("pkg install python")
 print(Fore.MAGENTA + "Done installing Python")
 
-os.system("pkg ruby")
+os.system("pkg install ruby")
 print(Fore.MAGENTA + "Done installing Rubuy")
 
 os.system("pkg install figlet")
