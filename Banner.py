@@ -62,17 +62,16 @@ def evil():
 
         text1 = ("\n\ncowthink -f eyes "+cs+" |lolcat -a --speed="+speed)
         text2 = ("\nfiglet "+name+" |lolcat -a --speed="+speed)
-        text3 = ("""
-        shopt -s histappend
+        text3 = ("""shopt -s histappend
         \nshopt -s histverify                                                           
         \nexport HISTCONTROL=ignoreboth
         \nPROMPT_DIRTRIM=2
         \nPS1='\[\e[0;32m\]\w\[\e[0m\] \[\e[0;97m\]\$\[\e[0m\] '
         
         \nif [ -x /data/data/com.termux/files/usr/libexec/termux/command-not-found ]; then
-        \n\tcommand_not_found_handle() {
+        \ncommand_not_found_handle() {
                 /data/data/com.termux/files/usr/libexec/termux/command-not-found        }
-fi""")
+        \nfi""")
 
         with open("bash.bashrc","w") as zsh :
                 zsh.write(text3)
@@ -83,17 +82,16 @@ def neo():
         name = str(input("       Enter Your Name : "))
         text1 = ("\nneofetch")
         text2 = ("\nfiglet "+name+" |lolcat -a --speed=80")
-        text3 = ("""
-        shopt -s histappend
+        text3 = ("""shopt -s histappend
         \nshopt -s histverify                                                           
         \nexport HISTCONTROL=ignoreboth
         \nPROMPT_DIRTRIM=2
         \nPS1='\[\e[0;32m\]\w\[\e[0m\] \[\e[0;97m\]\$\[\e[0m\] '
-        
         \nif [ -x /data/data/com.termux/files/usr/libexec/termux/command-not-found ]; then
-        \n\tcommand_not_found_handle() {
-                /data/data/com.termux/files/usr/libexec/termux/command-not-found        }
-fi""")
+        command_not_found_handle() {
+                /data/data/com.termux/files/usr/libexec/termux/command-not-found        
+        }
+        \nfi""")
 
         with open("bash.bashrc","w") as zsh :
                 zsh.write(text3)
