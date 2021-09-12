@@ -1,1 +1,131 @@
-aW1wb3J0IHRpbWUKaW1wb3J0IGNvbG9yYW1hCmZyb20gY29sb3JhbWEgaW1wb3J0IEZvcmUsIEJhY2ssIFN0eWxlCmNvbG9yYW1hLmluaXQoYXV0b3Jlc2V0PVRydWUpCmltcG9ydCBvcyAgLHNodXRpbCAsdGltZQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIApvcy5zeXN0ZW0oImNsZWFyIikKCnByaW50KCkKcHJpbnQoKQoKbG9nbyA9ICIiIgoKICAgICAgICAgICAgICAgICAgICAgICAg4paI4paI4paI4paI4paI4paI4paI4pWX4paI4paI4paI4paI4paI4paI4paI4paI4pWX4paI4paI4paI4paI4paI4paI4paI4pWXCiAgICAgICAgICAgICAgICAgICAgICAgIOKWiOKWiOKVlOKVkOKVkOKVkOKVkOKVneKVmuKVkOKVkOKWiOKWiOKVlOKVkOKVkOKVneKWiOKWiOKVlOKVkOKVkOKVkOKVkOKVnQogICAgICAgICAgICAgICAgICAgICAgICDilojilojilojilojilojilojilojilZcgICDilojilojilZEgICDilojilojilojilojilojilZcKICAgICAgICAgICAgICAgICAgICAgICAg4pWa4pWQ4pWQ4pWQ4pWQ4paI4paI4pWRICAg4paI4paI4pWRICAg4paI4paI4pWU4pWQ4pWQ4pWdCiAgICAgICAgICAgICAgICAgICAgICAgIOKWiOKWiOKWiOKWiOKWiOKWiOKWiOKVkSAgIOKWiOKWiOKVkSAgIOKWiOKWiOKVkQogICAgICAgICAgICAgICAgICAgICAgICDilZrilZDilZDilZDilZDilZDilZDilZ0gICDilZrilZDilZ0gICDilZrilZDilZ0iIiIKCnByaW50KCkKCmxvZ28yID0gIiIiCgogICAgICAgICAgIOKWiOKWiOKWiOKWiOKWiOKWiOKVlyAg4paI4paI4paI4paI4paI4pWXIOKWiOKWiOKWiOKVlyAgIOKWiOKWiOKVl+KWiOKWiOKWiOKVlyAgIOKWiOKWiOKVl+KWiOKWiOKWiOKWiOKWiOKWiOKWiOKVl+KWiOKWiOKWiOKWiOKWiOKWiOKVlwogICAgICAgICAgIOKWiOKWiOKVlOKVkOKVkOKWiOKWiOKVl+KWiOKWiOKVlOKVkOKVkOKWiOKWiOKVl+KWiOKWiOKWiOKWiOKVlyAg4paI4paI4pWR4paI4paI4paI4paI4pWXICDilojilojilZHilojilojilZTilZDilZDilZDilZDilZ3ilojilojilZTilZDilZDilojilojilZcKICAgICAgICAgICDilojilojilojilojilojilojilZTilZ3ilojilojilojilojilojilojilojilZHilojilojilZTilojilojilZcg4paI4paI4pWR4paI4paI4pWU4paI4paI4pWXIOKWiOKWiOKVkeKWiOKWiOKWiOKWiOKWiOKVlyAg4paI4paI4paI4paI4paI4paI4pWU4pWdCiAgICAgICAgICAg4paI4paI4pWU4pWQ4pWQ4paI4paI4pWX4paI4paI4pWU4pWQ4pWQ4paI4paI4pWR4paI4paI4pWR4pWa4paI4paI4pWX4paI4paI4pWR4paI4paI4pWR4pWa4paI4paI4pWX4paI4paI4pWR4paI4paI4pWU4pWQ4pWQ4pWdICDilojilojilZTilZDilZDilojilojilZcKICAgICAgICAgICDilojilojilojilojilojilojilZTilZ3ilojilojilZEgIOKWiOKWiOKVkeKWiOKWiOKVkSDilZrilojilojilojilojilZHilojilojilZEg4pWa4paI4paI4paI4paI4pWR4paI4paI4paI4paI4paI4paI4paI4pWX4paI4paI4pWRICDilojilojilZEKICAgICAgICAgICDilZrilZDilZDilZDilZDilZDilZ0g4pWa4pWQ4pWdICDilZrilZDilZ3ilZrilZDilZ0gIOKVmuKVkOKVkOKVkOKVneKVmuKVkOKVnSAg4pWa4pWQ4pWQ4pWQ4pWd4pWa4pWQ4pWQ4pWQ4pWQ4pWQ4pWQ4pWd4pWa4pWQ4pWdICDilZrilZDilZ0gIiIiCnRpbWUuc2xlZXAoMSkKcHJpbnQoRm9yZS5SRUQgKyBsb2dvKQp0aW1lLnNsZWVwKDEpCnByaW50KEZvcmUuR1JFRU4gKyBsb2dvMikKCnByaW50KCkKCnRpbWUuc2xlZXAoMSkKcHJpbnQoRm9yZS5NQUdFTlRBICsgIlx0ICAgICAgICAgWyFdIENvZGVkIEJ5IFNlbnVrYSBUaGlzYXRoIEZlcm5hbmRvIikKdGltZS5zbGVlcCgxKQpwcmludChGb3JlLk1BR0VOVEEgKyAiXHQgICAgICAgICBbIV0gTWVtYmVyIE9mIEN5YmVyIFdvcnJpb3JzIikKdGltZS5zbGVlcCgxKQpwcmludChGb3JlLlJFRCArICJcdCAgICAgICAgIFshXSBXZSBBcmUgTm90IEluIERhbmdlciBXZSBBcmUgRGFuZ2VyIikKdGltZS5zbGVlcCgxKQoKcHJpbnQoKQpwcmludCgpCnRpbWUuc2xlZXAoMSkKcHJpbnQgKEZvcmUuWUVMTE9XICsgIlx0ICAgICAgICAgICAgICAgWzFdIEV2aWwgRXllIEJhbm5lciIpCnRpbWUuc2xlZXAoMSkKcHJpbnQgKEZvcmUuWUVMTE9XICsgIlx0ICAgICAgICAgICAgICAgWzJdIE5lb2ZldGNoIikKdGltZS5zbGVlcCgxKQpwcmludCAoRm9yZS5ZRUxMT1cgKyAiXHQgICAgICAgICAgICAgICBbM10gRXhpdCIpCgpwcmludCAoKQpwcmludCAoKQoKZGVmIGV2aWwoKToKICAgICAgICBuYW1lID0gc3RyKGlucHV0KCIgICAgWz9dIEVudGVyIFlvdXIgTmFtZSA6ICIpKQogICAgICAgIGNzID0gc3RyKGlucHV0KCIgICAgWz9dIEVudGVyIENvd3NheSBOYW1lIDogIikpCiAgICAgICAgc3BlZWQgPSBzdHIoaW5wdXQoIiAgICBbP10gU3BlZWQgWzUwIC0gMTUwXSA6ICIpKQoKICAgICAgICB0ZXh0MSA9ICgiXG5cbmNvd3RoaW5rIC1mIGV5ZXMgIitjcysiIHxsb2xjYXQgLWEgLS1zcGVlZD0iK3NwZWVkKQogICAgICAgIHRleHQyID0gKCJcbmZpZ2xldCAiK25hbWUrIiB8bG9sY2F0IC1hIC0tc3BlZWQ9IitzcGVlZCkKICAgICAgICB0ZXh0MyA9ICgiIiJzaG9wdCAtcyBoaXN0YXBwZW5kCiAgICAgICAgc2hvcHQgLXMgaGlzdHZlcmlmeSAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgZXhwb3J0IEhJU1RDT05UUk9MPWlnbm9yZWJvdGgKICAgICAgICBQUk9NUFRfRElSVFJJTT0yCiAgICAgICAgUFMxPSdcW1xlWzA7MzJtXF1cd1xbXGVbMG1cXSBcW1xlWzA7OTdtXF1cJFxbXGVbMG1cXSAnCiAgICAgICAgCiAgICAgICAgaWYgWyAteCAvZGF0YS9kYXRhL2NvbS50ZXJtdXgvZmlsZXMvdXNyL2xpYmV4ZWMvdGVybXV4L2NvbW1hbmQtbm90LWZvdW5kIF07IHRoZW4KICAgICAgICBjb21tYW5kX25vdF9mb3VuZF9oYW5kbGUoKSB7CiAgICAgICAgICAgICAgICAvZGF0YS9kYXRhL2NvbS50ZXJtdXgvZmlsZXMvdXNyL2xpYmV4ZWMvdGVybXV4L2NvbW1hbmQtbm90LWZvdW5kICAgICAgICAKICAgICAgICAgICAgICAgIH0KICAgICAgICBmaSIiIikKCiAgICAgICAgd2l0aCBvcGVuKCJiYXNoLmJhc2hyYyIsInciKSBhcyB6c2ggOgogICAgICAgICAgICAgICAgenNoLndyaXRlKHRleHQzKQogICAgICAgICAgICAgICAgenNoLndyaXRlKHRleHQxKQogICAgICAgICAgICAgICAgenNoLndyaXRlKHRleHQyKQoKZGVmIG5lbygpOgogICAgICAgIG5hbWUgPSBzdHIoaW5wdXQoIiAgICAgICBFbnRlciBZb3VyIE5hbWUgOiAiKSkKICAgICAgICB0ZXh0MSA9ICgiXG5uZW9mZXRjaCIpCiAgICAgICAgdGV4dDIgPSAoIlxuZmlnbGV0ICIrbmFtZSsiIHxsb2xjYXQgLWEgLS1zcGVlZD04MCIpCiAgICAgICAgdGV4dDMgPSAoIiIic2hvcHQgLXMgaGlzdGFwcGVuZAogICAgICAgIHNob3B0IC1zIGhpc3R2ZXJpZnkgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgIGV4cG9ydCBISVNUQ09OVFJPTD1pZ25vcmVib3RoCiAgICAgICAgUFJPTVBUX0RJUlRSSU09MgogICAgICAgIFBTMT0nXFtcZVswOzMybVxdXHdcW1xlWzBtXF0gXFtcZVswOzk3bVxdXCRcW1xlWzBtXF0gJwogICAgICAgIGlmIFsgLXggL2RhdGEvZGF0YS9jb20udGVybXV4L2ZpbGVzL3Vzci9saWJleGVjL3Rlcm11eC9jb21tYW5kLW5vdC1mb3VuZCBdOyB0aGVuCiAgICAgICAgY29tbWFuZF9ub3RfZm91bmRfaGFuZGxlKCkgewogICAgICAgICAgICAgICAgL2RhdGEvZGF0YS9jb20udGVybXV4L2ZpbGVzL3Vzci9saWJleGVjL3Rlcm11eC9jb21tYW5kLW5vdC1mb3VuZCAgICAgICAgCiAgICAgICAgfQogICAgICAgIGZpIiIiKQoKICAgICAgICB3aXRoIG9wZW4oImJhc2guYmFzaHJjIiwidyIpIGFzIHpzaCA6CiAgICAgICAgICAgICAgICB6c2gud3JpdGUodGV4dDMpCiAgICAgICAgICAgICAgICB6c2gud3JpdGUodGV4dDEpCiAgICAgICAgICAgICAgICB6c2gud3JpdGUodGV4dDIpCgpkZWYgbW92ZV9mKCk6CiAgICAgICAgaWYgb3MucGF0aC5leGlzdHMoIi9kYXRhL2RhdGEvY29tLnRlcm11eC9maWxlcy91c3IvZXRjL2Jhc2guYmFzaHJjIik6CiAgICAgICAgICAgICAgICBvcy5yZW1vdmUoIi9kYXRhL2RhdGEvY29tLnRlcm11eC9maWxlcy91c3IvZXRjL2Jhc2guYmFzaHJjIikKICAgICAgICBpZiBvcy5wYXRoLmV4aXN0cygiL2RhdGEvZGF0YS9jb20udGVybXV4L2ZpbGVzL3Vzci9ldGMvbW90ZCIpOgogICAgICAgICAgICAgICAgb3MucmVtb3ZlKCIvZGF0YS9kYXRhL2NvbS50ZXJtdXgvZmlsZXMvdXNyL2V0Yy9tb3RkIikKICAgICAgICBzaHV0aWwubW92ZSgiYmFzaC5iYXNocmMiICwiL2RhdGEvZGF0YS9jb20udGVybXV4L2ZpbGVzL3Vzci9ldGMiKQogICAgICAgIHByaW50KCkKICAgICAgICBwcmludCgpCiAgICAgICAgcHJpbnQgKCdcMDMzWzMxbScgKyAiICAgICAgIFlvdXIgQmFubmVyIEhhcyBCZWVuIEFwcGxpZWQuIFBsZWFzZSBPcGVuIEEgTmV3IFNlc3Npb24iKQogICAgICAgIHByaW50KCkKICAgICAgICBwcmludCgpCiAgICAgICAgb3Muc3lzdGVtKCIgICAgICAgICAgICAgICAgIGZpZ2xldCBEb25lIHwgbG9sY2F0IikKICAgICAgICBwcmludCgpCiAgICAgICAgcHJpbnQoKQoKZGVmIGV4aXRfYigpOgogICAgcHJpbnQoRm9yZS5NQUdFTlRBICsgIiAgICAgICAgICBbfl0gVGhhbmsgWW91IEZvciBDaG9vc2luZyBTVEYgQkFOTkVSIikKICAgIG9zLnN5c3RlbSgiZmlnbGV0IEJZRSB8IGxvbGNhdCAtLXNwZWVkPTEwMCIpCiAgICBleGl0KCkKdGltZS5zbGVlcCgxKQpjaG8gPSBpbnQoaW5wdXQoIiAgIEVudGVyIFlvdXIgQ2hvaWNlIDogIikpCnByaW50ICgpCmlmIGNobyA9PSAxIDoKICAgICAgICBldmlsKCkKICAgICAgICBtb3ZlX2YoKQplbGlmIGNobyA9PSAyOgogICAgICAgIG5lbygpCiAgICAgICAgbW92ZV9mKCkgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgCmVsaWYgY2hvID09IDM6CiAgICAgICAgZXhpdF9iKCkK
+import time
+import colorama
+from colorama import Fore, Back, Style
+colorama.init(autoreset=True)
+import os  ,shutil ,time
+                                                                                
+os.system("clear")
+
+print()
+print()
+
+logo = """
+
+                        ███████╗████████╗███████╗
+                        ██╔════╝╚══██╔══╝██╔════╝
+                        ███████╗   ██║   █████╗
+                        ╚════██║   ██║   ██╔══╝
+                        ███████║   ██║   ██║
+                        ╚══════╝   ╚═╝   ╚═╝"""
+
+print()
+
+logo2 = """
+
+           ██████╗  █████╗ ███╗   ██╗███╗   ██╗███████╗██████╗
+           ██╔══██╗██╔══██╗████╗  ██║████╗  ██║██╔════╝██╔══██╗
+           ██████╔╝███████║██╔██╗ ██║██╔██╗ ██║█████╗  ██████╔╝
+           ██╔══██╗██╔══██║██║╚██╗██║██║╚██╗██║██╔══╝  ██╔══██╗
+           ██████╔╝██║  ██║██║ ╚████║██║ ╚████║███████╗██║  ██║
+           ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝ """
+time.sleep(1)
+print(Fore.RED + logo)
+time.sleep(1)
+print(Fore.GREEN + logo2)
+
+print()
+
+time.sleep(1)
+print(Fore.MAGENTA + "\t         [!] Coded By Senuka Thisath Fernando")
+time.sleep(1)
+print(Fore.MAGENTA + "\t         [!] Member Of Cyber Worriors")
+time.sleep(1)
+print(Fore.RED + "\t         [!] We Are Not In Danger We Are Danger")
+time.sleep(1)
+
+print()
+print()
+time.sleep(1)
+print (Fore.YELLOW + "\t               [1] Evil Eye Banner")
+time.sleep(1)
+print (Fore.YELLOW + "\t               [2] Neofetch")
+time.sleep(1)
+print (Fore.YELLOW + "\t               [3] Exit")
+
+print ()
+print ()
+
+def evil():
+        name = str(input("    [?] Enter Your Name : "))
+        cs = str(input("    [?] Enter Cowsay Name : "))
+        speed = str(input("    [?] Speed [50 - 150] : "))
+
+        text1 = ("\n\ncowthink -f eyes "+cs+" |lolcat -a --speed="+speed)
+        text2 = ("\nfiglet "+name+" |lolcat -a --speed="+speed)
+        text3 = ("""shopt -s histappend
+        shopt -s histverify                                                           
+        export HISTCONTROL=ignoreboth
+        PROMPT_DIRTRIM=2
+        PS1='\[\e[0;32m\]\w\[\e[0m\] \[\e[0;97m\]\$\[\e[0m\] '
+        
+        if [ -x /data/data/com.termux/files/usr/libexec/termux/command-not-found ]; then
+        command_not_found_handle() {
+                /data/data/com.termux/files/usr/libexec/termux/command-not-found        
+                }
+        fi""")
+
+        with open("bash.bashrc","w") as zsh :
+                zsh.write(text3)
+                zsh.write(text1)
+                zsh.write(text2)
+
+def neo():
+        name = str(input("       Enter Your Name : "))
+        text1 = ("\nneofetch")
+        text2 = ("\nfiglet "+name+" |lolcat -a --speed=80")
+        text3 = ("""shopt -s histappend
+        shopt -s histverify                                                           
+        export HISTCONTROL=ignoreboth
+        PROMPT_DIRTRIM=2
+        PS1='\[\e[0;32m\]\w\[\e[0m\] \[\e[0;97m\]\$\[\e[0m\] '
+        if [ -x /data/data/com.termux/files/usr/libexec/termux/command-not-found ]; then
+        command_not_found_handle() {
+                /data/data/com.termux/files/usr/libexec/termux/command-not-found        
+        }
+        fi""")
+
+        with open("bash.bashrc","w") as zsh :
+                zsh.write(text3)
+                zsh.write(text1)
+                zsh.write(text2)
+
+def move_f():
+        if os.path.exists("/data/data/com.termux/files/usr/etc/bash.bashrc"):
+                os.remove("/data/data/com.termux/files/usr/etc/bash.bashrc")
+        if os.path.exists("/data/data/com.termux/files/usr/etc/motd"):
+                os.remove("/data/data/com.termux/files/usr/etc/motd")
+        shutil.move("bash.bashrc" ,"/data/data/com.termux/files/usr/etc")
+        print()
+        print()
+        print ('\033[31m' + "       Your Banner Has Been Applied. Please Open A New Session")
+        print()
+        print()
+        os.system("                 figlet Done | lolcat")
+        print()
+        print()
+
+def exit_b():
+    print(Fore.MAGENTA + "          [~] Thank You For Choosing STF BANNER")
+    os.system("figlet BYE | lolcat --speed=100")
+    exit()
+time.sleep(1)
+cho = int(input("   Enter Your Choice : "))
+print ()
+if cho == 1 :
+        evil()
+        move_f()
+elif cho == 2:
+        neo()
+        move_f()                                                                
+elif cho == 3:
+        exit_b()
