@@ -22,7 +22,9 @@ Steps :
         
         [#] After Open A New Session In Termux   
         
-        [#] Your Banner Will Be Displayed
+        [#] Your Banner Will Be Displayed.
+        
+        [-] You Need To Install Git And Python Before Runing The Tool.
                                                                                 
 [~] Tested Only In Termux.
 
