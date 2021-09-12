@@ -1,1 +1,31 @@
-aW1wb3J0IG9zCgoKb3Muc3lzdGVtKCJwa2cgdXBncmFkZSIpCnByaW50KCJEb25lIFVwZ3JhZGUiKQoKb3Muc3lzdGVtKCJwa2cgdXBkYXRlIikKcHJpbnQoIkRvbmUgdXBkYXRlIikKCm9zLnN5c3RlbSgicGlwIGluc3RhbGwgY29sb3JhbWEiKQpwcmludCgiRG9uZSBJbnN0YWxsaW5nIENvbG9yYW1hIikKCm9zLnN5c3RlbSgicGtnIGluc3RhbGwgcHl0aG9uIikKcHJpbnQoIkRvbmUgaW5zdGFsbGluZyBQeXRob24iKQoKb3Muc3lzdGVtKCJwa2cgaW5zdGFsbCBydWJ5IikKcHJpbnQoIkRvbmUgaW5zdGFsbGluZyBSdWJ1eSIpCgpvcy5zeXN0ZW0oInBrZyBpbnN0YWxsIGZpZ2xldCIpCm9zLnN5c3RlbSgiZmlnbGV0IERvbmUgaW5zdGFsbGluZyBmaWdsZXQiKQoKb3Muc3lzdGVtKCJnZW0gaW5zdGFsbCBsb2xjYXQiKQpvcy5zeXN0ZW0oImZpZ2xldCBEb25lIGluc3RhbGxpbmcgTG9sY2F0IHwgbG9sY2F0IikKCm9zLnN5c3RlbSgicGtnIGluc3RhbGwgY293c2F5IikKb3Muc3lzdGVtKCJjb3dzYXkgRG9uZSBpbnN0YWxsaW5nIENvd3NheSB8IGxvbGNhdCIpCgpvcy5zeXN0ZW0oInBrZyBpbnN0YWxsIG5lb2ZldGNoIikKb3Muc3lzdGVtKCJmaWdsZXQgRG9uZSBpbnN0YWxsaW5nIE5lb2ZldGNoIHwgbG9sY2F0IikKCm9zLnN5c3RlbSgiZmlnbGV0IERvbmUgaW5zdGFsbGluZyBBbGwgUGFja2FnZXMgfCBsb2xjYXQiKQo=
+import os
+
+
+os.system("pkg upgrade")
+print("Done Upgrade")
+
+os.system("pkg update")
+print("Done update")
+
+os.system("pip install colorama")
+print("Done Installing Colorama")
+
+os.system("pkg install python")
+print("Done installing Python")
+
+os.system("pkg install ruby")
+print("Done installing Rubuy")
+
+os.system("pkg install figlet")
+os.system("figlet Done installing figlet")
+
+os.system("gem install lolcat")
+os.system("figlet Done installing Lolcat | lolcat")
+
+os.system("pkg install cowsay")
+os.system("cowsay Done installing Cowsay | lolcat")
+
+os.system("pkg install neofetch")
+os.system("figlet Done installing Neofetch | lolcat")
+
+os.system("figlet Done installing All Packages | lolcat")
