@@ -25,7 +25,7 @@ os.system("figlet Done installing Lolcat | lolcat")
 os.system("pkg install cowsay")
 os.system("cowsay Done installing Cowsay | lolcat")
 
-os.system("pip install neofetch")
+os.system("pkg install neofetch")
 os.system("figlet Done installing Neofetch | lolcat")
 
 os.system("figlet Done installing All Packages | lolcat")
