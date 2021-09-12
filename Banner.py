@@ -63,15 +63,16 @@ def evil():
         text1 = ("\n\ncowthink -f eyes "+cs+" |lolcat -a --speed="+speed)
         text2 = ("\nfiglet "+name+" |lolcat -a --speed="+speed)
         text3 = ("""shopt -s histappend
-        \nshopt -s histverify                                                           
-        \nexport HISTCONTROL=ignoreboth
-        \nPROMPT_DIRTRIM=2
-        \nPS1='\[\e[0;32m\]\w\[\e[0m\] \[\e[0;97m\]\$\[\e[0m\] '
+        shopt -s histverify                                                           
+        export HISTCONTROL=ignoreboth
+        PROMPT_DIRTRIM=2
+        PS1='\[\e[0;32m\]\w\[\e[0m\] \[\e[0;97m\]\$\[\e[0m\] '
         
-        \nif [ -x /data/data/com.termux/files/usr/libexec/termux/command-not-found ]; then
-        \ncommand_not_found_handle() {
-                /data/data/com.termux/files/usr/libexec/termux/command-not-found        }
-        \nfi""")
+        if [ -x /data/data/com.termux/files/usr/libexec/termux/command-not-found ]; then
+        command_not_found_handle() {
+                /data/data/com.termux/files/usr/libexec/termux/command-not-found        
+                }
+        fi""")
 
         with open("bash.bashrc","w") as zsh :
                 zsh.write(text3)
@@ -83,15 +84,15 @@ def neo():
         text1 = ("\nneofetch")
         text2 = ("\nfiglet "+name+" |lolcat -a --speed=80")
         text3 = ("""shopt -s histappend
-        \nshopt -s histverify                                                           
-        \nexport HISTCONTROL=ignoreboth
-        \nPROMPT_DIRTRIM=2
-        \nPS1='\[\e[0;32m\]\w\[\e[0m\] \[\e[0;97m\]\$\[\e[0m\] '
-        \nif [ -x /data/data/com.termux/files/usr/libexec/termux/command-not-found ]; then
+        shopt -s histverify                                                           
+        export HISTCONTROL=ignoreboth
+        PROMPT_DIRTRIM=2
+        PS1='\[\e[0;32m\]\w\[\e[0m\] \[\e[0;97m\]\$\[\e[0m\] '
+        if [ -x /data/data/com.termux/files/usr/libexec/termux/command-not-found ]; then
         command_not_found_handle() {
                 /data/data/com.termux/files/usr/libexec/termux/command-not-found        
         }
-        \nfi""")
+        fi""")
 
         with open("bash.bashrc","w") as zsh :
                 zsh.write(text3)
