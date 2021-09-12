@@ -7,6 +7,9 @@ print("Done Upgrade")
 os.system("pkg update")
 print("Done update")
 
+os.system("pip install colorama")
+print("Done Installing Colorama")
+
 os.system("pkg install python")
 print("Done installing Python")
 
